@@ -9,3 +9,6 @@ I had a hard time getting my table to fit within my section and not overflow int
 
 For the Simon CSS I learned a lot about how to better structure my Startup page and keep it simple. 
 For the UX design I realized a lot I need to change about my startup. I should at minimum get matching color schemes
+
+2/22 HTML CSS deliverable
+    CSS is a very interesting language. It's very frustrating when you get something set up just the way you want it, and then you go to adjust something else and it messes up what you just finished working on. It's a lot like tightening bolts on a car tire, you have to work evenly on all the elements in order to get it set up right, otherwise if you focus too much on one you will mess up everything else, or this thing you just spent time on as you go to mess with your other elements.
