@@ -12,3 +12,7 @@ For the UX design I realized a lot I need to change about my startup. I should a
 
 2/22 HTML CSS deliverable
     CSS is a very interesting language. It's very frustrating when you get something set up just the way you want it, and then you go to adjust something else and it messes up what you just finished working on. It's a lot like tightening bolts on a car tire, you have to work evenly on all the elements in order to get it set up right, otherwise if you focus too much on one you will mess up everything else, or this thing you just spent time on as you go to mess with your other elements.
+
+2/23 JS
+    I cant say I really understand why I need arrow functions. If I'm making an arrow function why does it need to be a function in the first place. but hopefully i can find a use for them
+    I think the differences between objects and classes are really interesting. I  really need to get more exposure to these concepts to understand their intricacies and why they are used in certain contexts so I can have a greater appreciation for them all
