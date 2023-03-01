@@ -16,3 +16,6 @@ For the UX design I realized a lot I need to change about my startup. I should a
 2/23 JS
     I cant say I really understand why I need arrow functions. If I'm making an arrow function why does it need to be a function in the first place. but hopefully i can find a use for them
     I think the differences between objects and classes are really interesting. I  really need to get more exposure to these concepts to understand their intricacies and why they are used in certain contexts so I can have a greater appreciation for them all
+
+2/28 DOM
+    So much fun working on injecting code into the DOM. I spent hours researching how to create elements and have them inherit the style I had set for cousin elements as well as have their own unique identifiers (card number and suit) and it was so much fun. I am so excited to finish up my blackjack game
