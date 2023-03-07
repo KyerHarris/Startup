@@ -19,3 +19,6 @@ For the UX design I realized a lot I need to change about my startup. I should a
 
 2/28 DOM
     So much fun working on injecting code into the DOM. I spent hours researching how to create elements and have them inherit the style I had set for cousin elements as well as have their own unique identifiers (card number and suit) and it was so much fun. I am so excited to finish up my blackjack game
+
+3/6 Simon JS
+    I learn best for sure when I just jump into the deep end and figure it out. I try and use all the practices to work on my startup and think of how I can use them correctly. It was great to see the examples in Simon and think of how I can implement them in my startup. I especially found helpful seeing the use of asyncs and promises to help me get an idea for what goes on in there and a more real life application as opposed to a simple "moo" that doesn't really convey the full usefullness.
