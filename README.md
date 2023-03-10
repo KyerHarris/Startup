@@ -22,3 +22,6 @@ For the UX design I realized a lot I need to change about my startup. I should a
 
 3/6 Simon JS
     I learn best for sure when I just jump into the deep end and figure it out. I try and use all the practices to work on my startup and think of how I can use them correctly. It was great to see the examples in Simon and think of how I can implement them in my startup. I especially found helpful seeing the use of asyncs and promises to help me get an idea for what goes on in there and a more real life application as opposed to a simple "moo" that doesn't really convey the full usefullness.
+
+3/10 Startup JS
+    I loved to make this project. CSS and html without Javascript feel so empty, but as soon as you add in the javaScript the code sputters to life. Suddenly I have a reason to make my html elements and css elements functional. My buttons actually mean something. My website actually has purpose. Up next I need to work on making my functions async and returning promises so that they can run in tandem with my main thread.
