@@ -25,3 +25,9 @@ For the UX design I realized a lot I need to change about my startup. I should a
 
 3/10 Startup JS
     I loved to make this project. CSS and html without Javascript feel so empty, but as soon as you add in the javaScript the code sputters to life. Suddenly I have a reason to make my html elements and css elements functional. My buttons actually mean something. My website actually has purpose. Up next I need to work on making my functions async and returning promises so that they can run in tandem with my main thread.
+
+3/22 Node.js/Express
+    It's so easy to use. Writing get and posts are so simple, it formats the url for you and all you have to do is tell it what to accept. 
+    "const apiRouter = express.Router();
+    app.use(`/api`, apiRouter);"
+    this well set up your path and allow you to handle all requests that include /api. from there you can differentiate between what they have after /api with other calls in a similar fashion. It's so simple.
