@@ -31,3 +31,7 @@ For the UX design I realized a lot I need to change about my startup. I should a
     "const apiRouter = express.Router();
     app.use(`/api`, apiRouter);"
     this well set up your path and allow you to handle all requests that include /api. from there you can differentiate between what they have after /api with other calls in a similar fashion. It's so simple.
+
+3/24
+    MongoDB Atlas was one of the most frustrating parts of this yet. I spent 5 hours trying to get it to work and it all came down to the fact that I hadn't given my user permissions because I thought that they had default permissions, because why am I creating a user why can't access the database??
+    then I had to undo all the testing I had done in order to be able to launch to my website. very annoying
