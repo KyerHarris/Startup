@@ -35,3 +35,6 @@ For the UX design I realized a lot I need to change about my startup. I should a
 3/24
     MongoDB Atlas was one of the most frustrating parts of this yet. I spent 5 hours trying to get it to work and it all came down to the fact that I hadn't given my user permissions because I thought that they had default permissions, because why am I creating a user why can't access the database??
     then I had to undo all the testing I had done in order to be able to launch to my website. very annoying
+    
+3/27 Simon Login
+    I'm so excited to be able to fully implement my startup. MongoDB is such an interesting database. I have worked with SQLite before and it is very rigid, but that makes it so I'm always sure of whats going to happen. MongoDB has been easier to set up but I'm not entirely sure how to use it. I am excited to learn but the findOne returning a document is a little confusing
