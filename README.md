@@ -38,3 +38,6 @@ For the UX design I realized a lot I need to change about my startup. I should a
     
 3/27 Simon Login
     I'm so excited to be able to fully implement my startup. MongoDB is such an interesting database. I have worked with SQLite before and it is very rigid, but that makes it so I'm always sure of whats going to happen. MongoDB has been easier to set up but I'm not entirely sure how to use it. I am excited to learn but the findOne returning a document is a little confusing
+    
+3/29 WebSockets
+    I'm a little worried about attaching the websockets to my startup. My goal is to be able to have players play blackjack together but I may have bitten off more than I can chew. As I was reviewing the Simon websockets I was planning how I can use it to help me make my startup. 
