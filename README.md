@@ -41,3 +41,6 @@ For the UX design I realized a lot I need to change about my startup. I should a
     
 3/29 WebSockets
     I'm a little worried about attaching the websockets to my startup. My goal is to be able to have players play blackjack together but I may have bitten off more than I can chew. As I was reviewing the Simon websockets I was planning how I can use it to help me make my startup. 
+    
+4/5
+    I think this is so cool. I hate porting my code so it's gonna be a total pain to change everything over, but I do appreciate the understanding of the HTML, CSS, and the appreciation I can have going forward being able to use frameworks. One thing I really think is cool is that the CLI will set up AND setup for deployment all for me. I don't have to worry about compressing the files or anything of the like.
